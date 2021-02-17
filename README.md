@@ -7,3 +7,6 @@ With the AI being the single most spotlighted field of computer science in the r
 ### Comment by Santiago Darré
 
 As software engineers, many of us naively believed that our jobs would be immune to automation. As AI advances however, it's becoming clear that this isn't the case. We despair because we can't imagine a world without work. To many of us, the only alternative is starvation. Fortunately, automation has the potential to create a world where compulsory work is a thing of the past. We should be setting up the necessary institutions *right now* that will allow us to transition into a post-work world. The automation of virtually every job (even artistic jobs) is inevitable and it is our choice whether that destroys us or propels us into utopian luxury.
+=======
+### Comments by Jessica Liu
+Hi! I found your points on AI pretty cool and wonder if you're also taking Professor Yann Lecun's AI course? The topic this week touches on Robotics and I think it might solve some of your concerns about being replaced by code-writing AIs.
